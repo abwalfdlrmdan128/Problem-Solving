@@ -1,0 +1,53 @@
+#include <bits/stdc++.h>
+using namespace std;
+vector<vector<int>> adj;
+vector<int>color;
+bool isBipartite(int n) {
+    for (int start=1;start<=n;start++) {
+        if (color[start] == -1) {
+            queue<int> q;
+            q.push(start);
+            color[start]=0;
+            while (!q.empty()) {
+                int u = q.front(); q.pop();
+                for (int v : adj[u]) {
+                    if (color[v] == -1) {
+                        color[v] = 1 - color[u];
+                        q.push(v);
+                    }
+                    else if (color[v] == color[u]) {
+                        return false;
+                    }
+                }
+            }
+        }
+    }
+    return true;
+}
+
+int main() {
+    int n, m;
+    cin >> n >> m;
+    adj.resize(n+1);
+    color.assign(n+1, -1);
+    vector<pair<int,int>>Edges;
+    for (int i=0;i<m;i++) {
+        int u,v;
+        cin >>u>>v;
+        adj[u].push_back(v);
+        adj[v].push_back(u);
+        Edges.push_back(make_pair(u,v));
+    }
+  if(!isBipartite(n)) {
+      cout<<"NO"<<endl;
+      return 0;
+  }
+    cout<<"YES"<<endl;
+    for(auto e:Edges) {
+        if(color[e.second]==0&&color[e.first]==1) {
+            cout<<1;
+        }else {
+            cout<<0;
+        }
+    }
+}
