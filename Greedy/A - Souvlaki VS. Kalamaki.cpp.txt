@@ -1,0 +1,35 @@
+#include <bits/stdc++.h>
+using namespace std;
+int n;
+vector<vector<int>>Adj;
+vector<int> visited;
+void dfs(int node) {
+    visited[node] = 1;
+    for(auto child : Adj[node]) {
+        if(visited[child] == 0) dfs(child);
+    }
+}
+void solve() {
+    int n;
+    cin>>n;
+    vector<int>v(n);
+    for(auto &it:v)cin>>it;
+    sort(v.begin(),v.end());
+    for(int i=1;i+1<n;i+=2){
+        if(v[i]!=v[i+1]){
+cout<<"NO"<<endl;
+        return;}
+    }
+    cout<<"YES\n";
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    int t=1;
+    cin>>t;
+    while(t--) {
+        solve();
+    }
+}
+// FADEL 
