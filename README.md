@@ -1,2 +1,3 @@
-- **H1 - Victorious Coloring (Easy Version)**
+- **Graph Problem**
+  ---
 - [H1 - Victorious Coloring (Easy Version)](https://codeforces.com/contest/2152/problem/H1)
