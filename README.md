@@ -5,6 +5,11 @@
 - [C - Cycles](https://codeforces.com/contest/233/problem/C)
 - [C - Xor-tree](https://codeforces.com/contest/430/problem/C)
   
- **Math & Number theory**
+**Math & Number theory**
   ---
 - [H - Honey Cake](https://codeforces.com/contest/2181/problem/H)
+  
+**Greedy**
+  ---
+- [C - Production of Snowmen](https://codeforces.com/contest/2182/problem/C)
+  
