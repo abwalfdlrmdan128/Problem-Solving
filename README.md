@@ -4,6 +4,7 @@
 - [D - D/D/D](https://codeforces.com/contest/2109/problem/D)
 - [C - Cycles](https://codeforces.com/contest/233/problem/C)
 - [C - Xor-tree](https://codeforces.com/contest/430/problem/C)
+- [E - Product Queries](https://codeforces.com/contest/2193/problem/E)
   
 **Math & Number theory**
   ---
