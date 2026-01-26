@@ -7,7 +7,7 @@
 - [E - Product Queries](https://codeforces.com/contest/2193/problem/E)
 
   
-**Math & Number theory**
+**Math & Number theory Problem**
   ---
 - [H - Honey Cake](https://codeforces.com/contest/2181/problem/H)
   
