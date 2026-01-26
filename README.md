@@ -15,4 +15,4 @@
   ---
 - [C - Production of Snowmen](https://codeforces.com/contest/2182/problem/C)
 - [B - Reverse a Permutation](https://codeforces.com/contest/2193/problem/B)
-  
+- [A - DBMB and the Array](https://codeforces.com/contest/2193/problem/A)
