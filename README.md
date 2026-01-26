@@ -19,3 +19,4 @@
 
 **Binary Search Problem**
   ---
+- [D - Monster Game](https://codeforces.com/contest/2193/problem/D)
