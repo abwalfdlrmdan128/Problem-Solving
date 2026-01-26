@@ -11,7 +11,7 @@
   ---
 - [H - Honey Cake](https://codeforces.com/contest/2181/problem/H)
   
-**Greedy**
+**Greedy Problem**
   ---
 - [C - Production of Snowmen](https://codeforces.com/contest/2182/problem/C)
 - [B - Reverse a Permutation](https://codeforces.com/contest/2193/problem/B)
