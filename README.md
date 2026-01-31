@@ -21,5 +21,5 @@
 **Binary Search Problem**
   ---
 - [D - Monster Game](https://codeforces.com/contest/2193/problem/D)
-- [D - Monster Game](https://codeforces.com/contest/2193/problem/D)
+- [C - Restricted Sorting](https://codeforces.com/contest/2188/problem/C)
 - 
