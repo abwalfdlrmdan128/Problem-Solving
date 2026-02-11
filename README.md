@@ -18,7 +18,7 @@
 - [A - DBMB and the Array](https://codeforces.com/contest/2193/problem/A)
 - [B - Seats](https://codeforces.com/contest/2188/problem/B)
 - [A - Divisible Permutation](https://codeforces.com/contest/2188/problem/A)
-- 
+- [A - Divisible Permutation](https://codeforces.com/contest/2188/problem/A)
 
 **Binary Search Problem**
   ---
