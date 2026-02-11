@@ -19,7 +19,7 @@
 - [B - Seats](https://codeforces.com/contest/2188/problem/B)
 - [A - Divisible Permutation](https://codeforces.com/contest/2188/problem/A)
 - [C - Game with a Fraction](https://codeforces.com/contest/2197/problem/C)
-- [C - Game with a Fraction](https://codeforces.com/contest/2197/problem/C)
+- [B - Array and Permutation](https://codeforces.com/contest/2197/problem/C)
 
 **Binary Search Problem**
   ---
