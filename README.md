@@ -21,6 +21,8 @@
 - [C - Game with a Fraction](https://codeforces.com/contest/2197/problem/C)
 - [B - Array and Permutation](https://codeforces.com/contest/2197/problem/B)
 - [A - Friendly Numbers](https://codeforces.com/contest/2197/problem/A)
+- [Assiut vs Luxor](https://codeforces.com/gym/672200/problem/C)
+  
 
 **Binary Search Problem**
   ---
